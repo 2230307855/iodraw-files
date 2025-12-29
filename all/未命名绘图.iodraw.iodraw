@@ -67,7 +67,7 @@
         <mxCell id="9UcivHbtfoeXY20zxKPb-22" value="z" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="280" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9UcivHbtfoeXY20zxKPb-23" value="1.这是一个递归的问题" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="9UcivHbtfoeXY20zxKPb-23" value="汉诺塔：这是一个递归的问题" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="305" y="310" width="125" height="30" as="geometry" />
         </mxCell>
       </root>
